@@ -1,7 +1,7 @@
   <html>
   <head>
   	<title>
-  		Admin panel
+  		Admin panel  sshhaalliinnddaa
   	</title>
   <link rel="stylesheet" type="text/css" href="styles/css.css">
 
